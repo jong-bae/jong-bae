@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-f39c12?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <br>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
