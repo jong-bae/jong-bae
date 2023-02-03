@@ -10,6 +10,7 @@
   <br>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 
